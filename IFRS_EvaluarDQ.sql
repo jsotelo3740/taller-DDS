@@ -18,7 +18,7 @@ FUNCION :   EVALUAR LAS REGLAS DQ SOBRE LOS RESULTADOS DE LOS PROCESOS IFRS.
 
 HISTORIA:
 	 JSO @11-DIC-2018 * Pet. 68913/68914: IFRS9  - Creacion.  
-&& JSO @10-JUL-2019 * Pet. 71266: IFRS9    
+&& JSO @10-JUL-2019 * Pet. 71266: IFRS9 .   
 ------------------------------------------------------------------------------------------------- */
 
 -- DECLARO CURSOR
